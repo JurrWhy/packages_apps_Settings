@@ -75,4 +75,6 @@
     <string name="face_unlock_method_title">Permitir desbloqueo facial en la pantalla de bloqueo</string>
     <string name="face_unlock_method_default">Cuando la pantalla está encendida</string>
     <string name="face_unlock_method_swipe">Cuando deslizas en la pantalla de bloqueo</string>
+    <string name="notification_sound_vib_screen_on_title">Notificaciones molestas</string>
+    <string name="notification_sound_vib_screen_on_summary">Las notificaciones suenan y vibran cuando la pantalla está encendida</string>
 </resources>
